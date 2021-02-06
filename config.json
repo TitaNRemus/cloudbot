@@ -1,0 +1,10 @@
+{
+  "Name": "Cloud",
+  "token": "Bot-Token",
+  "prefix": "c!",
+  "mongoDB": "mongodb+srv://cloudbot:titanzilla12345@cloudbotdiscord.5z8h1.mongodb.net/CloudBotDiscord?retryWrites=true&w=majority",
+  "trackergg": "",
+  "color": "#ffffff",
+  "footer": "Cloud Bot | Tüm Hakları Saklıdır 2021",
+  "adminRole": "CloudMod"
+}

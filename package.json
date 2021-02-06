@@ -1,0 +1,38 @@
+{
+  "name": "alita",
+  "version": "2.0.0",
+  "description": "A Discord.js bot using MongoDB (npm package Mongoose) to create a bot people can use to learn Discord.js",
+  "main": "Alita.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "canvas": "^2.6.1",
+    "chalk": "^4.0.0",
+    "chart.js": "^2.9.4",
+    "chartjs-node-canvas": "^3.0.6",
+    "discord.js": "^12.1.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.9.7",
+    "node-fetch": "^2.6.1",
+    "random-puppy": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSJaay/Alita.git"
+  },
+  "keywords": [
+    "Alita",
+    "discord",
+    "mongo"
+  ],
+  "author": "KSJaay",
+  "license": "GNU General Public License v3.0",
+  "bugs": {
+    "url": "https://github.com/KSJaay/Alita/issues"
+  },
+  "homepage": "https://github.com/KSJaay/Alita#readme"
+}
